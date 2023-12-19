@@ -129,6 +129,9 @@ ul {
 .section-one {
   background-color: var(--dark-color);
   padding: 188px 0;
+  background-image: url ("../images/peopleimg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .head {
