@@ -470,3 +470,19 @@ ul {
   display: flex;
   gap: 16px;
 }
+.back-icon-footer {
+  background: var(--primary-brand);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  cursor: pointer;
+  padding: 12px;
+  width: 100%;
+  height: 100%;
+}
+.back-icon-footer:hover,
+.back-icon-footer:focus {
+  background: var(--green);
+}
