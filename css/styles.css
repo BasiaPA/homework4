@@ -69,7 +69,8 @@ ul {
 }
 .header {
   border: 1px solid #000;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 .nav-header {
   display: flex;
@@ -291,7 +292,7 @@ ul {
   margin-top: 17.5px;
 }
 .footer-position {
-  gap: 120px;
+  margin-right: 120px;
   margin-left: 120px;
 }
 .social-position {
@@ -460,7 +461,7 @@ ul {
 }
 .back-icon:hover,
 .back-icon:focus {
-  background: var(--green);
+  background: var(--ocean);
 }
 .back-icon:hover .dot {
   fill: var(--light-color);
