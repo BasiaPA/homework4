@@ -293,12 +293,10 @@ ul {
 }
 .footer-position {
   margin-right: 120px;
-  margin-left: 120px;
 }
 .social-position {
   display: block;
   flex-direction: column;
-  margin-left: 120px;
 }
 .social {
   margin-bottom: 16px;
