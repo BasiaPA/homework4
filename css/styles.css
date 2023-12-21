@@ -75,7 +75,6 @@ ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 0 auto;
 }
 .settings-address {
   justify-content: space-between;
@@ -165,6 +164,7 @@ ul {
   background-repeat: no-repeat;
   background-position: center;
   max-width: 1440px;
+  margin: auto;
 }
 
 .head {
